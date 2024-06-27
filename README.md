@@ -1,5 +1,8 @@
 # Comparison of Bollywood and Hollywood Movies
 
+# Description
+This project aims to compare Bollywood and Hollywood movies based on their average ratings over the years.
+
 ## Features
 - Import movie ratings data from a CSV file.
 - Filter movies based on the language (Hindi for Bollywood, English for Hollywood).
