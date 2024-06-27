@@ -34,7 +34,7 @@ jupyter notebook movies.ipynb
 
 4. Run the cells in the notebook to execute the analysis.
    
-5. ## Output:
+ ## Output:
    ![output](https://github.com/shwetam19/movies_rating/assets/127859472/f5949123-e97f-46b8-b5bf-73783c79ccd1)
 
     
