@@ -1,6 +1,4 @@
-# Comparison of Bollywood and Hollywood Movies
-
-# Description
+## Comparison of Bollywood and Hollywood Movies
 This project aims to compare Bollywood and Hollywood movies based on their average ratings over the years.
 
 ## Features
