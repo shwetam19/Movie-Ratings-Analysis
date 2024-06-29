@@ -1,8 +1,8 @@
 ## Comparison of Bollywood and Hollywood Movies
-This project aims to compare Bollywood and Hollywood movies based on their average ratings over the years. The dataset is available on Kaggle. 
+This project aims to compare Bollywood and Hollywood movies based on their average ratings over the years. 
 
 ## Features
-- Import movie ratings data from a CSV file.
+- Import movie ratings data from a CSV file from Kaggle.
 - Filter movies based on the language (Hindi for Bollywood, English for Hollywood).
 - Calculate and compare the mean ratings of Bollywood and Hollywood movies over the years.
 - Visualize the comparison using graphs.
